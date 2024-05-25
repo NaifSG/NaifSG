@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m Naif  👋 
-- 👀 I’m interested in Embedded Systems, Robotics, DSP , Machine Learning, and Product Development 👀
-- 🌱 I’m currently working as Embedded System Engineer and pursuing my MSc in Electrical & Computer Engineering  
+- 👀 I’m interested in Embedded Systems, FPGA, DSP, NLP and Computer Vison, Data Analytics, and Product Development 👀
+- 🌱 I’m currently working as Senior R&D Engineer and pursuing my MSc in Electrical & Computer Engineering with Thesis foucs on NLP
 - 💞️ I’m looking to collaborate on interesting projects 
 - 🙆 You can reach me on 
 - 📫 Email: Naifsag@gmail.com 📫
